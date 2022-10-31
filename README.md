@@ -1,4 +1,4 @@
-# Code for paper 'Dynamic encoding of biological motion information in macaque medial superior temporal area'
+# Code for 'Dynamic encoding of biological motion information in macaque medial superior temporal area'
 1. We provided the code and example neuron for calculating modulation index(MI) and net response(NR) in 'MI and NR calculaate.rar'.
 2. The script 'MI Comparison' was used to compare MI under different conditions(intact VS scrambled,preferred VS nonpreferred head orientation, upright VS inverted, preferred VS nonpreferred walking direction).
 3. The script 'NR Comparison' was used to compare NR under different conditions(intact VS scrambled,preferred VS nonpreferred head orientation, upright VS inverted, preferred VS nonpreferred walking direction).
